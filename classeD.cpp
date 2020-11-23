@@ -32,14 +32,12 @@ class D{
         void MD2(){
             cout<<"MD2"<<endl;
         }
-<<<<<<< HEAD
         void MD3(){
             cout<<"MD3"<<endl;
-=======
+        }
     
         void MD4(){
             cout<<"MD4"<<endl;
->>>>>>> 0dbd9b3504e4551ba859912d5a4f0f70d7013247
         }
 }
 
