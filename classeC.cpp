@@ -32,6 +32,9 @@ class C{
         void MC2(){
             cout<<"MC2"<<endl;
         }
+        void MC3(){
+            cout<<"MC3"<<endl;
+        }
 }
 
 int main(){
